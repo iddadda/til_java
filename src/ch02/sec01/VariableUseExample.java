@@ -7,6 +7,6 @@ public static void main(String[] args) {
     System.out.println(hour + "시간 " + minute + "분");
 
     int totalMinute = minute + hour * 60;
-    System.out.println(totalMinute);
+    System.out.println("총 " + totalMinute + "분");
     }
 }

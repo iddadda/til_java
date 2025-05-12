@@ -16,6 +16,5 @@ public class RandomNumber {
         System.out.println("value2: " + (int)(value2 * 10.0));
 
         System.out.println( (int)(Math.random() * 10.0)); // 0~9
-
     }
 }
